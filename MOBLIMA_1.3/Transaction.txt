@@ -1,0 +1,136 @@
+Mobile Number: 92753485
+Movie-goer's name: Tram Anh
+Movie-goer's email: tramanh@abc.com
+Movie: Catching Fire
+Movie Date: 16/11/2013 4:00
+Number of tickets: 3
+Number of senior citizens' tickets: 0
+Number of students' tickets: 3
+Cineplex: 1
+Cinema: 2(Normal)
+TID: A02201311120137
+Transaction amount: SGD36.0
+
+Mobile Number: 91234567
+Movie-goer's name: Justin Bieber
+Movie-goer's email: jb@jb.com
+Movie: Baby Blues
+Movie Date: 18/11/2013 7:00
+Number of tickets: 2
+Number of senior citizens' tickets: 0
+Number of students' tickets: 1
+Cineplex: 2
+Cinema: 3(Gold)
+TID: B03201311120139
+Transaction amount: SGD70.0
+
+Mobile Number: 92837465
+Movie-goer's name: anh
+Movie-goer's email: anh@bcnd
+Movie: Thor
+Movie Date: 14/11/2013 4:00
+Number of tickets: 3
+Number of senior citizens' tickets: 1
+Number of students' tickets: 2
+Cineplex: 1
+Cinema: 1(Normal)
+TID: A01201311120508
+Transaction amount: SGD21.0
+
+Mobile Number: 92753485
+Movie-goer's name: Tram Anh
+Movie-goer's email: anh@abc
+Movie: Thor
+Movie Date: 16/11/2013 7:00
+Number of tickets: 2
+Number of senior citizens' tickets: 0
+Number of students' tickets: 2
+Cineplex: 2
+Cinema: 3(Gold)
+TID: B03201311131150
+Transaction amount: SGD38.0
+
+Mobile Number: 92753485
+Movie-goer's name: Tram Anh
+Movie-goer's email: abc@abc.com
+Movie: Thor
+Movie Date: 14/11/2013 10:00
+Number of tickets: 3
+Number of senior citizens' tickets: 0
+Number of students' tickets: 3
+Cineplex: 1
+Cineplex Name: Cineleisure Orchard
+Cinema: 1(Normal)
+TID: A01201311131239
+Transaction amount: SGD27.0
+
+Mobile Number: 92861234
+Movie-goer's name: anh
+Movie-goer's email: anc@anc
+Movie: Thor
+Movie Date: 14/11/2013 10:00
+Number of tickets: 2
+Number of senior citizens' tickets: 1
+Number of students' tickets: 1
+Cineplex: 1
+Cineplex Name: Cineleisure Orchard
+Cinema: 1(Normal)
+TID: A01201311131303
+Transaction amount: SGD20.0
+
+Mobile Number: 12345678
+Movie-goer's name: testcase1
+Movie-goer's email: testcase1@123.com
+Movie: Passion
+Movie Date: 13/11/2013 16:00
+Number of tickets: 3
+Number of senior citizens' tickets: 1
+Number of students' tickets: 2
+Cineplex: 3
+Cineplex Name: Causeway Point
+Cinema: 2(Normal)
+TID: C02201311131402
+Transaction amount: SGD18.0
+
+Mobile Number: 12345678
+Movie-goer's name: testcase1
+Movie-goer's email: 123@123.com
+Movie: Thor
+Movie Date: 15/11/2013 16:00
+Number of tickets: 3
+Number of senior citizens' tickets: 1
+Number of students' tickets: 2
+Cineplex: 1
+Cineplex Name: Cineleisure Orchard
+Cinema: 1(Normal)
+TID: A01201311131450
+Transaction amount: SGD32.0
+
+Mobile Number: 91234567
+Movie-goer's name: Yuen Kai Him
+Movie-goer's email: asd@asd.com
+Movie: Thor
+Movie Date: 15/11/2013 16:00
+Number of tickets: 3
+Number of senior citizens' tickets: 0
+Number of students' tickets: 3
+Cineplex: 1
+Cineplex Name: Cineleisure Orchard
+Cinema: 1(Normal)
+TID: A01201311131625
+Transaction amount: SGD27.0
+
+Mobile Number: 23456789
+Movie-goer's name: testcase2
+Movie-goer's email: 12345@12345.com
+Movie: Thor
+Movie Date: 15/11/2013 16:00
+Number of tickets: 194
+Number of senior citizens' tickets: 144
+Number of students' tickets: 50
+Cineplex: 1
+Cineplex Name: Cineleisure Orchard
+Cinema: 1(Normal)
+TID: A01201311131720
+Transaction amount: SGD2466.0
+

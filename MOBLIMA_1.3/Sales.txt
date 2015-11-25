@@ -1,0 +1,221 @@
+Movie Date: 13/11/2013
+Movie: Catching Fire
+Cineleisure Orchard
+Transaction amount: SGD 36.0
+
+Movie Date: 11/11/2013
+Movie: Baby Blues
+The Cathay Cineplex
+Transaction amount: SGD 70.0
+
+Movie Date: 4/11/2013
+Movie: Thor
+Cineleisure Orchard
+Transaction amount: SGD 21.0
+
+Movie Date: 6/11/2013
+Movie: Thor
+Causeway Point
+Transaction amount: SGD 38.0
+
+Movie Date: 12/11/2013
+Movie: Thor
+The Cathay Cineplex
+Transaction amount: SGD 27.0
+
+Movie Date: 11/11/2013
+Movie: Thor
+Cineleisure Orchard
+Transaction amount: SGD 20.0
+
+Movie Date: 6/11/2013
+Movie: Passion
+Causeway Point
+Transaction amount: SGD 18.0
+
+Movie Date: 1/11/2013
+Movie: Thor
+Cineleisure Orchard
+Transaction amount: SGD 32.0
+
+Movie Date: 13/11/2013
+Movie: Catching Fire
+Cineleisure Orchard
+Transaction amount: SGD 36.0
+
+Movie Date: 11/11/2013
+Movie: Baby Blues
+The Cathay Cineplex
+Transaction amount: SGD 70.0
+
+Movie Date: 4/11/2013
+Movie: Thor
+Cineleisure Orchard
+Transaction amount: SGD 21.0
+
+Movie Date: 6/11/2013
+Movie: Thor
+Causeway Point
+Transaction amount: SGD 38.0
+
+Movie Date: 12/11/2013
+Movie: Thor
+The Cathay Cineplex
+Transaction amount: SGD 27.0
+
+Movie Date: 11/11/2013
+Movie: Thor
+Cineleisure Orchard
+Transaction amount: SGD 20.0
+
+Movie Date: 6/11/2013
+Movie: Passion
+Causeway Point
+Transaction amount: SGD 18.0
+
+Movie Date: 5/11/2013
+Movie: Thor
+Cineleisure Orchard
+Transaction amount: SGD 32.0
+
+Movie Date: 3/11/2013
+Movie: Catching Fire
+Cineleisure Orchard
+Transaction amount: SGD 36.0
+
+Movie Date: 2/10/2013
+Movie: Baby Blues
+The Cathay Cineplex
+Transaction amount: SGD 70.0
+
+Movie Date: 3/11/2013
+Movie: Thor
+Cineleisure Orchard
+Transaction amount: SGD 21.0
+
+Movie Date: 10/11/2013
+Movie: Thor
+Causeway Point
+Transaction amount: SGD 38.0
+
+Movie Date: 5/11/2013
+Movie: Thor
+The Cathay Cineplex
+Transaction amount: SGD 27.0
+
+Movie Date: 4/11/2013
+Movie: Thor
+Cineleisure Orchard
+Transaction amount: SGD 20.0
+
+Movie Date: 3/11/2013
+Movie: Passion
+Causeway Point
+Transaction amount: SGD 18.0
+
+Movie Date: 1/11/2013
+Movie: Thor
+Cineleisure Orchard
+Transaction amount: SGD 32.0
+
+Movie Date: 5/11/2013
+Movie: Thor
+Cineleisure Orchard
+Transaction amount: SGD 32.0
+
+Movie Date: 3/11/2013
+Movie: Catching Fire
+Cineleisure Orchard
+Transaction amount: SGD 36.0
+
+Movie Date: 2/10/2013
+Movie: Baby Blues
+The Cathay Cineplex
+Transaction amount: SGD 70.0
+
+Movie Date: 5/10/2013
+Movie: Thor
+Cineleisure Orchard
+Transaction amount: SGD 32.0
+
+Movie Date: 3/10/2013
+Movie: Catching Fire
+Cineleisure Orchard
+Transaction amount: SGD 36.0
+
+Movie Date: 2/10/2013
+Movie: Baby Blues
+The Cathay Cineplex
+Transaction amount: SGD 70.0
+
+
+Movie Date: 2/10/2013
+Movie: Baby Blues
+The Cathay Cineplex
+Transaction amount: SGD 70.0
+
+Movie Date: 5/10/2013
+Movie: Thor
+Cineleisure Orchard
+Transaction amount: SGD 32.0
+
+Movie Date: 3/9/2013
+Movie: Catching Fire
+Cineleisure Orchard
+Transaction amount: SGD 36.0
+
+Movie Date: 2/9/2013
+Movie: Baby Blues
+The Cathay Cineplex
+Transaction amount: SGD 70.0
+
+Movie Date: 2/9/2013
+Movie: Baby Blues
+The Cathay Cineplex
+Transaction amount: SGD 70.0
+
+Movie Date: 5/9/2013
+Movie: Thor
+Cineleisure Orchard
+Transaction amount: SGD 32.0
+
+Movie Date: 3/10/2013
+Movie: Catching Fire
+Cineleisure Orchard
+Transaction amount: SGD 36.0
+
+Movie Date: 2/10/2013
+Movie: Baby Blues
+The Cathay Cineplex
+Transaction amount: SGD 70.0
+
+Movie Date: 3/8/2013
+Movie: Catching Fire
+Cineleisure Orchard
+Transaction amount: SGD 46.0
+
+Movie Date: 2/8/2013
+Movie: Baby Blues
+The Cathay Cineplex
+Transaction amount: SGD 30.0
+
+Movie Date: 3/8/2013
+Movie: Catching Fire
+Cineleisure Orchard
+Transaction amount: SGD 66.0
+
+Movie Date: 2/8/2013
+Movie: Baby Blues
+The Cathay Cineplex
+Transaction amount: SGD 170.0
+
+Movie Date: 15/11/2013
+Movie: Thor
+Cineleisure Orchard
+Transaction amount: SGD 27.0
+
+Movie Date: 15/11/2013
+Movie: Thor
+Cineleisure Orchard
+Transaction amount: SGD 2466.0
+
